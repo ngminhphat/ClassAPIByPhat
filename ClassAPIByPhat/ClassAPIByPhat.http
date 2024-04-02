@@ -1,0 +1,6 @@
+@ClassAPIByPhatByPhatByPhat_HostAddress = http://localhost:5244
+
+GET {{ClassAPIByPhatByPhatByPhat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
